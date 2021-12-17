@@ -1,0 +1,24 @@
+{
+  "name": "scandirmvfiles",
+  "version": "1.0.0",
+  "description": "scan dir for files with a certain extension and move the files to another dir",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdearmitt/scanDirMvFiles.git"
+  },
+  "author": "Jarrod DeArmitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdearmitt/scanDirMvFiles/issues"
+  },
+  "homepage": "https://github.com/jdearmitt/scanDirMvFiles#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
